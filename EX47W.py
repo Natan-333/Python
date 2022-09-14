@@ -1,5 +1,5 @@
 n = int(input("Digite o valor de n: "))
-while (n <= 0): n = int(input("Informe somente valores positivos: "));
+while (n <= 0): n = int(input("Informe somente valores positivos: "))
 
 fatorial = 1
 m = 2
@@ -19,4 +19,4 @@ while (m <= n):
             fatorial = 1
             
             n = int(input("Digite o valor de n: "))
-            while (n <= 0): n = int(input("Informe somente valores positivos: "));
+            while (n <= 0): n = int(input("Informe somente valores positivos: "))
